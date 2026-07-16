@@ -2,7 +2,9 @@
 
 > 覆盖：全球商业架构 · 国内 Connect+ 小程序 · **会员管理** · **董事管理**（相互独立又协同）
 >
-> 配套文件：`BNI商业架构思维导图.mm`（可用 FreeMind / Freeplane / XMind 打开）
+> 配套文件：
+> - `BNI商业架构思维导图.html`（完整可交互可视化，浏览器打开）
+> - `BNI商业架构思维导图.mm`（可用 FreeMind / Freeplane / XMind 打开）
 
 ```mermaid
 mindmap
@@ -121,5 +123,6 @@ mindmap
 
 ## 使用说明
 
-1. 在支持 Mermaid 的编辑器（如 VS Code / Cursor / GitHub）中预览本 Markdown。
-2. 用 **Freeplane / FreeMind / XMind** 打开同目录 `BNI商业架构思维导图.mm` 可编辑节点、导出图片/PDF。
+1. 浏览器打开同目录 `BNI商业架构思维导图.html`，可筛选商业模式 / 小程序 / 会员 / 董事，点击节点查看详情。
+2. 在支持 Mermaid 的编辑器中预览本 Markdown。
+3. 用 **Freeplane / FreeMind / XMind** 打开 `BNI商业架构思维导图.mm` 可编辑节点、导出图片/PDF。
